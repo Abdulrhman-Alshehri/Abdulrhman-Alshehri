@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400"/>
+</div>
+
 # Hi, I'm Abdulrhman Alshehri 👋
 
 🎓 AI student @ Imam Abdulrahman Bin Faisal University (Class of 2026)
