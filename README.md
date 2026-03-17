@@ -30,7 +30,7 @@
 
 ## 🏆 Highlights
 
-- 🎓 KAUST AI Specialization Program — multi-stage program with
+- 🎓 KAUST AI Specialization Program — multi-stage program
 - ☁️ AWS Cloud Club Captain @ IAU — grew membership & organized technical events
 - 🥇 Best Innovative Social Initiative — SIPCHEM & Shabab Mujtamaie
 - 📊 Top 30, Aramco Consulting Championship 2024
