@@ -10,9 +10,9 @@
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [Emergency Response AI](https://github.com/zdfz/Harnessing-Deep-Learning-to-Optimize-Emergency-Response) | Real-time accident detection from CCTV using deep learning | PyTorch · YOLOv8 · OpenCV | ⭐ Active |
-| [Customer Feedback Classifier](https://github.com/zdfz/Customer_FeedBack_Classifier) | NLP model to classify customer feedback by sentiment | Python · scikit-learn · NLP | Active |
-| [Rafad Platform](https://github.com/zdfz/rafad-project) | Tech platform — full description coming soon | HTML · Supabase | In Progress |
+| [Emergency Response AI](https://github.com/zdfz/Harnessing-Deep-Learning-to-Optimize-Emergency-Response) | Real-time accident detection from CCTV feeds using deep learning | PyTorch · YOLOv8 · OpenCV | ⭐ Active |
+| [Customer Feedback Classifier](https://github.com/zdfz/Customer_FeedBack_Classifier) | NLP model to classify customer feedback by sentiment and topic | Python · scikit-learn · NLP | Active |
+| [Rifad Smart Cooling](https://github.com/Abdulrhman-Alshehri/rafad-project) | Corporate website for a smart cooling technology startup | HTML · CSS · JavaScript | Active |
 
 ---
 
